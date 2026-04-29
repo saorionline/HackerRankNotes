@@ -1,0 +1,21 @@
+{
+  "name": "hackerranknotes",
+  "version": "1.0.0",
+  "description": "Clásico de algoritmos, estructuras de datos, matemáticas y más.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx ts-node algoritmos.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saorionline/HackerRankNotes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/saorionline/HackerRankNotes/issues"
+  },
+  "homepage": "https://github.com/saorionline/HackerRankNotes#readme"
+}
