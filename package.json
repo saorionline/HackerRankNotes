@@ -4,7 +4,8 @@
   "description": "Clásico de algoritmos, estructuras de datos, matemáticas y más.",
   "main": "index.js",
   "scripts": {
-    "test": "npx ts-node algoritmos.ts"
+    "test": "npx ts-node algoritmos.ts",
+    "draw": "npx ts-node ./Mathematics/MaximumDraw.ts"
   },
   "repository": {
     "type": "git",
